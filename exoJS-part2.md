@@ -35,7 +35,7 @@ Faire une condition qui affichera dans la console, un message selon la valeur de
 ### Switch
 A l'aide d'une boite de dialogue, demander à l'utilisateur de rentrer **un numéro de mois entre 1 et 12 inclus**.  
 Selon la valeur rentrée, indiquer dans la console le mois correspondant : 
-*Ex. 5 affichera dans la console -> Le chiffre 5 correspond au mois de Mai *.
+*Ex. 5 affichera dans la console -> Le chiffre 5 correspond au mois de Mai *.  
 **NB** : Penser à indiquer dans la console si l'utilisateur n'a pas indiqué un chiffre entre 1 et 12
 ex. 'Veuillez uniquement saisir un chiffre entren 1 et 12'.
 
