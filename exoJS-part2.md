@@ -6,10 +6,10 @@ Faire une condition : Si l'âge rentré est *supérieur ou égal à 18*, indique
 A l'aide d'une boite de dialogue, inviter l'utilisateur à rentrer un nombre entier.  
 Faire une condition permettant d'afficher le message dans la console :  
 "Le nombre saisie est un nombre **PAIR**" ou, "le nombre saisie est un nombre **IMPAIR**".
-Exercice 3
-Créer un variable password contenant un mot de passe secret mais en clair.
-A l'aide d'une boite de dialogue, inviter l'utilisateur à rentrer un mot de passe d'identification.
-Faire une condition permettant de tester celui-ci : Si le mot de passe n'est pas bon afficher dans la console "Mauvais mot de passe", sinon afficher dans la console "Hello Mr Anderson".
+## Exercice 3
+Créer un variable **password** contenant un mot de passe secret mais en clair.  
+A l'aide d'une boite de dialogue, inviter l'utilisateur à rentrer un **mot de passe d'identification**.  
+Faire une condition permettant de tester celui-ci : **Si le mot de passe n'est pas bon** afficher dans la console "*Mauvais mot de passe*", sinon afficher dans la console "*Hello Mr Anderson*".
 ## Exercice 4
 A l'aide d'une boite de dialogue, inviter l'utilisateur à renseigner son genre : **homme** ou **femme**, puis de renseigner son **âge**.  
 Faire une condition pour afficher un des messages suivants dans la console :
