@@ -22,21 +22,18 @@ A l'aide d'une boite de dialogue, demander à l'utilisateur de manière successi
 - Nom
 - Prénom
 - Age
-- Adresse Mail
+- Adresse Mail  
 
-Afficher ensuite le résumé dans une seule boîte de dialogue :
-------------------------------------
-Nom : DOE  
-Prénom : John  
-Age : 33 ans  
-Adresse Mail : john.doe@afpa.fr
-------------------------------------
+Afficher ensuite le résumé dans une seule boîte de dialogue :  
+- Nom : DOE  
+- Prénom : John  
+- Age : 33 ans  
+- Adresse Mail : john.doe@afpa.fr
 
 # Exercice 5 
-## Addition
+## Addition  
 A l'aide de 2 boites de dialogue, demander à l'utilisateur de rentrer **2 nombres entiers**.  
 Effectuer l'addition des 2 nombres et afficher le résultat dans une boite de dialogue, de type :  
---------------------------------
-Le résultat de l'addition est : 
-**4 + 4 = 8**
---------------------------------
+Le résultat de l'addition est : **4 + 4 = 8**  
+***Attention au piège d'additionner des strings ;)***
+
