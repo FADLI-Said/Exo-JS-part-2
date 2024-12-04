@@ -30,6 +30,7 @@ Faire une condition qui affichera dans la console, un message selon la valeur de
 - **de 11 à 13** : Bon trimestre.
 - **de 14 à 18** : Excellent trimestre.
 - **Au dessus de 18** : Félicitations.
+
 ## Exercice 6
 ### Switch
 A l'aide d'une boite de dialogue, demander à l'utilisateur de rentrer **un numéro de mois entre 1 et 12 inclus**.  
@@ -37,6 +38,11 @@ Selon la valeur rentrée, indiquer dans la console le mois correspondant :
 *Ex. 5 affichera dans la console -> Le chiffre 5 correspond au mois de Mai *.
 **NB** : Penser à indiquer dans la console si l'utilisateur n'a pas indiqué un chiffre entre 1 et 12
 ex. 'Veuillez uniquement saisir un chiffre entren 1 et 12'.
+
+## Exercice 7
+### Ternaire
+A l'aide d'une boite de dialogue, demander à l'utilisateur de rentrer un **chiffre entier**.  
+En vous inspirant de ***l'exercice 2***, afficher dans la console si le chiffre est **PAIR** ou **IMPAIR** : ATTENTION, vous devez utiliser une ternaire dans votre unique `console.log('ici votre ternaire')`
 
 ## Exercice 8
 ### window.confirm()
